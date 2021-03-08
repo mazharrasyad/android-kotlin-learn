@@ -5,7 +5,7 @@
 <p>
   <img src="/screenshot/1.1 Activity - Main.png" width="240">
   &emsp;
-  <img src="/screenshot/1.2 Activity - Main #2.png" width="240">
+  <img src="/screenshot/1.2 Activity - Main 2.png" width="240">
   &emsp;
   <img src="/screenshot/1.3 Activity - Main Field Error.png" width="240">
   &emsp;
@@ -36,7 +36,7 @@
 
 <p>
   <img src="/screenshot/3.1 Views and ViewGroup.png" width="240">
-  <img src="/screenshot/3.2 Views and ViewGroup #2.png" width="240">
+  <img src="/screenshot/3.2 Views and ViewGroup 2.png" width="240">
 </p>
 
 ## Recycler View
